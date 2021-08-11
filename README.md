@@ -17,3 +17,9 @@ You can start editing the page by modifying `pages/index.js`. The page auto-upda
 [API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
 
 The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+
+## Deployment
+
+This project is deployed using [Fleek](https://fleek.co). The website is hosted in a decentralised manner using IPFS and ENS. 
+
+To access the live website a browser is required with ENS resolvers such as Chrome with [MetaMask](https://metamask.io) extension, Brave or Opera. The website can still be viewed with a normal broswer on [https://gohar.eth.link](https://gohar.eth.link) however you may see an older version of the site.
